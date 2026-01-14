@@ -1,39 +1,3 @@
-# Farmwise 🌱
-
-**Farmwise** is a React-based frontend project built as part of Semester 3 CSE Project-Based Learning.  
-It helps farmers by providing information on weather, soil, crops, and more.
-
-## Features
-- Product / Crop Information Catalog
-- Weather & Soil Assistance
-- Interactive UI
-- Responsive design
-
-## Technologies Used
-- Frontend: React
-- Backend/DB: Java Spring Boot (if applicable)
-- Version Control: Git & GitHub
-
-## Live Demo
-[Live Preview Link](your-live-demo-link)
-# Farmwise 🌱
-
-**Farmwise** is a React-based frontend project (or Java backend + frontend, depending on your setup) built as part of Semester 3 CSE Project-Based Learning.  
-It helps farmers by providing information on weather, soil, crops, and more.
-
-## Features
-- Product / Crop Information Catalog
-- Weather & Soil Assistance
-- Interactive UI
-- Responsive design
-
-## Technologies Used
-- Frontend: React / Thymeleaf (depending on your project)
-- Backend: Java Spring Boot (if applicable)
-- Version Control: Git & GitHub
-
-## Live Demo
-[Live Preview Link](your-live-demo-link)
 # farmwise 🎯
 
 
