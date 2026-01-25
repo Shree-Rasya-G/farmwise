@@ -6,8 +6,8 @@
 
 
 ### Team Members
-- Member 1:Shree Rasya G - Muthoot Instituite of  Technology and Science
-- Member 2: Safeena K S - Muthoot Instituite of  Technology and Science
+- Member 1:Shree Rasya G - Muthoot Institute of Technology and Science
+- Member 2: Safeena K S - Muthoot Institute of Technology and Science
 
 ### Hosted Project Link
 
